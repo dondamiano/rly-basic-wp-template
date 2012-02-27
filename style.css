@@ -1,0 +1,11 @@
+//TO DO if thin then sidebar down
+body		{overflow:scroll;text-align: center;color:white;background-color:grey;}
+a			{color: black;}
+a:hover 	{color:green;}
+#wrapper	{display:block;width:90%;margin:0px auto;}
+#header 	{border:2px #000 solid;}
+#content	{width:75%;border:2px #000 solid;float:left;}
+#sidebar	{width: 23%;border: 2px #000 solid;float:right;}
+#both 		{clear: both;}
+#footer 	{border: 2px #000 solid;}
+.title 		{font-size: 11pt;font-family: verdana;font-weight: bold;}
